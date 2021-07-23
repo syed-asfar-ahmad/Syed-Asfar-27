@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedAsfar
-- 👀 I’m interested in Programming Languages, websities and Web Development
-- 🌱 I’m currently learning C Language
+- 👀 I’m interested in Programming Languages,Web and Andriod Development.
+- 🌱 I’m currently learning C Programming Language, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
