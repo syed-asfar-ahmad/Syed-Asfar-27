@@ -1,4 +1,4 @@
-@@ -1,14 +1,13 @@
+
 
 ![Silas Kati Banner](https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Silas_Kati_Banner.png)
 
