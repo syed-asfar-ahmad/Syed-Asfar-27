@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Programming Language**
 
-- 💬 Ask me about **HTML, CSS, C and Java Programming Languages**
+- 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript) & C/C++ and Java Programming Languages**
 
 - 📫 How to reach me **syedasfar27@gmail.com**
 
