@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Asfar Ahmad Bukhari</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Java Programming Language**
+- 🌱 I’m currently learning **Advanced Frontend Web Development**
 
 - 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript) & C/C++ and Java Programming Languages**
 
@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/syed_asfar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_asfar_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-asfar-ahmad-bukhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-asfar-ahmad-bukhari" height="30" width="40" /></a>
-<a href="https://fb.com/syedasfar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedasfar786" height="30" width="40" /></a>
-<a href="https://instagram.com/syed_asfar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_asfar_27" height="30" width="40" /></a>
+<a href="https://twitter.com/syed_asfar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/syed_asfar_27/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_asfar_27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syed-asfar-ahmad-bukhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/syed_asfar_27/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-asfar-ahmad-bukhari" height="30" width="40" /></a>
+<a href="https://fb.com/syedasfar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/syed_asfar_27/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedasfar786" height="30" width="40" /></a>
+<a href="https://instagram.com/syed_asfar_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/syed_asfar_27/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_asfar_27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
