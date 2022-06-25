@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript) & C/C++ and Java Programming Languages**
 
-- 📫 How to reach me **syedasfar27@gmail.com**
+- 📫 How to reach me **syedasfar27@gmail.com & +92-3184318539**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
