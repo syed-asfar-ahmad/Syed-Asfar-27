@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Asfar Ahmad Bukhari</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<div style="display:flex">
-<p> <a href="https://twitter.com/syed_asfar_27" target="blank"><img src="https://img.shields.io/twitter/follow/syed_asfar_27?logo=twitter&style=for-the-badge" alt="syed_asfar_27" /></a> </p>
-<p><a href="https://facebook.com/syedasfar786" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="syedasfar786" /></a> </p>
-<p><a href="https://instagram.com/syed_asfar_27" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="syed_asfar_27" /></a> </p>
+<div style="display:flex ;">
+<p style="margin-left: 10px;"><a href="https://twitter.com/syed_asfar_27" target="blank"><img src="https://img.shields.io/twitter/follow/syed_asfar_27?logo=twitter&style=for-the-badge" alt="syed_asfar_27" /></a> </p>
+<p style="margin-left: 10px;"><a href="https://facebook.com/syedasfar786" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="syedasfar786" /></a> </p>
+<p style="margin-left: 10px;"><a href="https://instagram.com/syed_asfar_27" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="syed_asfar_27" /></a> </p>
   </div>
 
 - 🌱 I’m currently learning **Java Programming Language**
