@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/syed_asfar_27" target="blank"><img src="https://img.shields.io/twitter/follow/syed_asfar_27?logo=twitter&style=for-the-badge" alt="syed_asfar_27" /></a> </p>
-<p>align="left"> <a href="https://facebook.com/syedasfar786" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="syed_asfar_27" /></a> </p>
+<p><a href="https://facebook.com/syedasfar786" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="syed_asfar_27" /></a> </p>
 
 - 🌱 I’m currently learning **Java Programming Language**
 
