@@ -3,9 +3,9 @@
 
 # 💫 About Me:
 
-- 🌱 I’m a **Frontend Web Developer**
+- 🌱 I’m a **Frontend Web Developer & Data Scientist**
 
-- 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript, React) & C/C++, Java and Python Programming Languages**
+- 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript, React), Data Science, Artificial Intelligence, Machine Learning & C/C++, Java and Python Programming Languages**
 
 - 📫 How to reach me **syedasfar27@gmail.com & +92-3184318539**
 
