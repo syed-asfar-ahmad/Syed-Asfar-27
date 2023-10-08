@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Syed Asfar Ahmad Bukhari</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+# Hi 👋, I'm Syed Asfar Ahmad Bukhari
 
-# 💫 About Me:
+### A passionate Software Engineer from Pakistan
+
+## 💫 About Me:
 
 - 🌱 I’m a **Frontend Web Developer & Data Scientist**
-
 - 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript, React), Data Science, Artificial Intelligence, Machine Learning & C/C++, Java and Python Programming Languages**
+- 📫 How to reach me **[syedasfar27@gmail.com](mailto:syedasfar27@gmail.com) & [+92-3184318539](tel:+923184318539)**
 
-- 📫 How to reach me **syedasfar27@gmail.com & +92-3184318539**
-
+🌐 Connect with me on my website: [syedasfar.live](https://www.syedasfar.live)
 
 
 
