@@ -1,6 +1,5 @@
-# Hi 👋, I'm Syed Asfar Ahmad Bukhari
-
-### A passionate Software Engineer from Pakistan
+<h1 align="center">Hi 👋, I'm Syed Asfar Ahmad Bukhari</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 ## 💫 About Me:
 
