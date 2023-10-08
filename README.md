@@ -6,7 +6,7 @@
 - 🌱 I’m a **Frontend Web Developer & Data Scientist**
 - 💬 Ask me about **Web Development (HTML, CSS, Bootstrap, Javascript, React), Data Science, Artificial Intelligence, Machine Learning & C/C++, Java and Python Programming Languages**
 - 📫 How to reach me **[syedasfar27@gmail.com](mailto:syedasfar27@gmail.com) & [+92-3184318539](tel:+923184318539)**
-- 🌐 Connect with me on my website: <a href="https://www.syedasfar.live" target="_blank" rel="noopener noreferrer">syedasfar.live</a>
+- 🌐 Visit my website: <a href="https://www.syedasfar.live" target="_blank" rel="noopener noreferrer">syedasfar.live</a>
 
 
 
